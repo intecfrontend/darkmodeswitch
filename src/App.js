@@ -20,7 +20,6 @@ function App() {
 
   return (
     <ThemeProvider theme={theme === false ? lightTheme : darkTheme} >
-      <GlobalStyles />
       <styledApp>
         <div className="app">
 
