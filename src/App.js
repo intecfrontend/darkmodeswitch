@@ -1,7 +1,7 @@
 import './App.css';
 import React, { useState } from "react";
 import styled, { ThemeProvider } from "styled-components";
-import { lightTheme, darkTheme, GlobalStyles } from "./themes.js";
+import { lightTheme, darkTheme} from "./themes.js";
 import DarkModeToggle from "react-dark-mode-toggle";
 
 
