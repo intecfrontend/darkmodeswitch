@@ -3,9 +3,7 @@ import React, { useState } from "react";
 import styled, { ThemeProvider } from "styled-components";
 import { lightTheme, darkTheme, GlobalStyles } from "./themes.js";
 import DarkModeToggle from "react-dark-mode-toggle";
-import Switch1 from 'react-input-switch';
-import tick from "./icon-check.svg";
-import Slider from '@material-ui/core/Slider';
+
 
 
 function App() {
